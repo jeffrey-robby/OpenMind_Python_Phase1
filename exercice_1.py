@@ -1,2 +1,2 @@
 nom = input("Veuillez saisir votre nom :")
-print("Bienvenue, ", nom ,"!")
+print("Bienvenue, ",nom ,"!")
