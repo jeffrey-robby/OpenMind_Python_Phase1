@@ -1,5 +1,5 @@
-premier_nombre = input("Veuillez saisir le premier nombre a : ")
-deuxieme_nombre = input("Veuillez saisir le deuxième nombre b : ")
+premier_nombre = float(input("Veuillez saisir le premier nombre a : "))
+deuxieme_nombre = float(input("Veuillez saisir le deuxième nombre b : "))
 
 if premier_nombre > deuxieme_nombre:
     maximum = premier_nombre
