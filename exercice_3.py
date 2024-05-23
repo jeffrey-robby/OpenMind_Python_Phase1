@@ -6,4 +6,4 @@ if premier_nombre > deuxieme_nombre:
 else:
     maximum = deuxieme_nombre
 
-print("Le maximum entre", premier_nombre, "et", deuxieme_nombre, "est", maximum)
+print("Le maximum entre",premier_nombre, "et", deuxieme_nombre, "est", maximum)
