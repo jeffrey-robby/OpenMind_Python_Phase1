@@ -1,4 +1,4 @@
-premier_nombre  = input("Veuillez saisir le premier nombre a : ")
+premier_nombre = input("Veuillez saisir le premier nombre a : ")
 deuxieme_nombre = input("Veuillez saisir le deuxième nombre b : ")
 
 maximum = max(premier_nombre , deuxieme_nombre)
