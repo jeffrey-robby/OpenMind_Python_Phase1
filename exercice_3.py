@@ -1,9 +1,5 @@
-premier_nombre = input("Veuillez saisir le premier nombre a : ")
+premier_nombre  = input("Veuillez saisir le premier nombre a : ")
 deuxieme_nombre = input("Veuillez saisir le deuxième nombre b : ")
 
-if premier_nombre > deuxieme_nombre:
-    maximum = premier_nombre
-else:
-    maximum = deuxieme_nombre
-
-print("Le maximum entre", premier_nombre, "et", deuxieme_nombre, "est", maximum)
+maximum = max(premier_nombre , deuxieme_nombre)
+print("Le maximum entre", premier_nombre , "et", deuxieme_nombre, "est", maximum)
